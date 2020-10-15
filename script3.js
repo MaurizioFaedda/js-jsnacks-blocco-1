@@ -3,7 +3,7 @@
 // inseriti.
 
 // array di tutti i numeri che l'utenta inserirà
-var numeri= []
+var numeri = []
 
 // decido il mio length
 var numeroNumeri = 5;
